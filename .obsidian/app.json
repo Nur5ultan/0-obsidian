@@ -1,0 +1,15 @@
+{
+  "useMarkdownLinks": true,
+  "newFileLocation": "root",
+  "newFileFolderPath": "",
+  "trashOption": "system",
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "Files",
+  "userIgnoreFilters": [
+    "Files/"
+  ],
+  "propertiesInDocument": "source",
+  "showLineNumber": true,
+  "promptDelete": false,
+  "showUnsupportedFiles": true
+}
