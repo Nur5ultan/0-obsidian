@@ -1,5 +1,12 @@
 [
   "dataview",
   "table-editor-obsidian",
-  "obsidian-style-settings"
+  "obsidian-style-settings",
+  "templater-obsidian",
+  "calendar",
+  "obsidian-icon-folder",
+  "homepage",
+  "editing-toolbar",
+  "callout-manager",
+  "open-vscode"
 ]

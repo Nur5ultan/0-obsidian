@@ -20,9 +20,3 @@ tags:
 - [Supercharged Links](https://github.com/mdelobelle/obsidian_supercharged_links) — позволяет стилизовать ссылки в хранилище Obsidian на основе метаданных заметок.
 
 Полный список можно найти с помощью функции [«Зависимые»](https://github.com/blacksmithgu/obsidian-dataview/network/dependents) на GitHub .
-
-Язык этой страницы: Английский
-
-Всегда переводить Английский на Русский  
-Никогда не переводить Английский  
-Никогда не переводить blacksmithgu.github.io

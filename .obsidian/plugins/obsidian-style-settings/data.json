@@ -43,11 +43,12 @@
   "blue-topaz-theme@@enable-icon-anima": false,
   "blue-topaz-theme@@setting-etc-pane-style": "translucent-setting-panel",
   "blue-topaz-theme@@bt-colorful-titlebar": false,
-  "blue-topaz-theme@@toggle-calendar-shadow": false,
-  "blue-topaz-theme@@toggle-calendar-transparent": false,
+  "blue-topaz-theme@@toggle-calendar-shadow": true,
+  "blue-topaz-theme@@toggle-calendar-transparent": true,
   "blue-topaz-theme@@style-options-for-calendar-plugin": "style-options-for-calendar-plugin-style-two",
   "blue-topaz-theme@@dvtable-style-options": "wrapped-dvtable",
   "blue-topaz-theme@@auto-serial-number-dvtable": true,
   "blue-topaz-theme@@full-width-dvtable": true,
-  "blue-topaz-theme@@full-width-backlinks": false
+  "blue-topaz-theme@@full-width-backlinks": false,
+  "blue-topaz-theme@@callout-style-settings": "border-callout-style"
 }
