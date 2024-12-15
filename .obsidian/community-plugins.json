@@ -8,5 +8,7 @@
   "homepage",
   "editing-toolbar",
   "callout-manager",
-  "open-vscode"
+  "open-vscode",
+  "automatic-table-of-contents",
+  "code-styler"
 ]

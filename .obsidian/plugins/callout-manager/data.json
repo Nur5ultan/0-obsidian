@@ -1,7 +1,39 @@
 {
   "callouts": {
-    "custom": [],
-    "settings": {}
+    "custom": [
+      "book",
+      "my-awsome-book"
+    ],
+    "settings": {
+      "book": [
+        {
+          "changes": {
+            "color": "68, 207, 110"
+          }
+        }
+      ],
+      "my-awsome-book": [
+        {
+          "changes": {}
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "2, 122, 255"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "2, 122, 255"
+          }
+        }
+      ]
+    }
   },
   "calloutDetection": {
     "obsidian": true,
