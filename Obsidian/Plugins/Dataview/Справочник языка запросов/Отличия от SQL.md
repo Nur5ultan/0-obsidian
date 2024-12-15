@@ -1,14 +1,36 @@
 ---
-title: "Отличия от SQL"
-source: "https://blacksmithgu.github.io/obsidian-dataview/queries/differences-to-sql/"
-author:
-published:
-created: 2024-11-30
-description:
+title: "Отличия DQL от SQL"
+description: "Сравнение языка запросов Dataview (DQL) с SQL и объяснение ключевых различий"
 tags:
-  - "dataview"
-  - "sql"
+  - dataview
+  - dql
+  - sql
+  - comparison
+  - documentation
+keywords:
+  - отличия от sql
+  - dql vs sql
+  - сравнение языков
+  - запросы
+  - синтаксис
+created: 2024-11-30
+updated: 2024-12-15
+category: Obsidian/Plugins/Dataview/Query-Language
+source: "https://blacksmithgu.github.io/obsidian-dataview/queries/differences-to-sql/"
+author: "blacksmithgu"
+language: "ru"
+черновик: false # 📝 Черновик
+статус: "✅ Готово"
+архив: false # 📦 В архиве
 ---
+
+# 🔄 Отличия DQL от SQL
+
+## Основное содержание
+
+```table-of-contents
+```
+
 ## Язык запросов к данным (DQL) и SQL
 
 Если вы знакомы с SQL и имеете опыт написания SQL-запросов, вы можете подойти к написанию DQL-запроса аналогичным образом. Однако DQL существенно отличается от SQL.

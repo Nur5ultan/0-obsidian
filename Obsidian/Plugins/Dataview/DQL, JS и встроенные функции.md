@@ -1,16 +1,30 @@
 ---
 title: "DQL, JS и встроенные функции"
-source: "https://blacksmithgu.github.io/obsidian-dataview/queries/dql-js-inline/"
-author:
-published:
-created: 2024-11-30
-description:
+description: "Руководство по использованию DQL, JavaScript и встроенных функций в Dataview"
 tags:
-  - "dataview"
-  - "dql"
-  - "js"
-  - "function"
+  - dataview
+  - dql
+  - js
+  - function
+  - documentation
+keywords:
+  - dataview
+  - запросы
+  - функции
+  - javascript
+created: 2024-11-30
+updated: 2024-12-15
+category: Obsidian/Plugins/Dataview
+source: "https://blacksmithgu.github.io/obsidian-dataview/queries/dql-js-inline/"
+author: "blacksmithgu"
+language: "ru"
+статус: "✅ Готово"
+архив: false # 📦 В архиве
 ---
+
+# 📚 DQL, JS и встроенные функции
+
+## Основное содержание
 
 ```table-of-contents
 ```

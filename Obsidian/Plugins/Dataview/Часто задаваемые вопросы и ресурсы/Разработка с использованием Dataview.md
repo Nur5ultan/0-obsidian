@@ -1,14 +1,29 @@
 ---
-title: "Разработка с использованием Dataview"
-source: "https://blacksmithgu.github.io/obsidian-dataview/resources/develop-against-dataview/"
-author:
-published:
-created: 2024-11-30
-description:
+title: Разработка с использованием Dataview
+description: Руководство по разработке с использованием Dataview, включая лучшие практики и советы
 tags:
-  - "dataview"
-  - "development"
+  - dataview
+  - development
+  - programming
+  - documentation
+  - best-practices
+keywords:
+  - разработка
+  - dataview
+  - программирование
+  - лучшие практики
+  - советы разработчикам
+created: 2024-11-30
+updated: 2024-12-15
+category: Obsidian/Plugins/Dataview/Resources
+source: https://blacksmithgu.github.io/obsidian-dataview/resources/development/
+author: blacksmithgu
+language: ru
+черновик: false
+статус: ✅ Готово
+архив: false
 ---
+
 Dataview включает в себя высокоуровневый API для работы с плагинами, а также определения TypeScript и библиотеку утилит. Чтобы установить его, просто используйте:
 
 ```
@@ -63,5 +78,3 @@ if (!field) return;
 if (Values.isHtml(field)) // do something
 else if (Values.isLink(field)) // do something
 // ...
-```
-

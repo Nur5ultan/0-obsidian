@@ -1,14 +1,30 @@
 ---
 title: "Друзья Dataview"
-source: "https://blacksmithgu.github.io/obsidian-dataview/friends/"
-author:
-published:
-created: 2024-11-30
-description:
+description: "Список плагинов и инструментов, которые хорошо работают с Dataview"
 tags:
-  - "dataview"
-  - "friends"
----
+  - dataview
+  - plugins
+  - obsidian
+  - integration
+keywords:
+  - dataview
+  - плагины
+  - интеграция
+  - инструменты
+created: 2024-11-30
+updated: 2024-12-15
+category: Obsidian/Plugins/Dataview
+source: "https://blacksmithgu.github.io/obsidian-dataview/friends/"
+author: "blacksmithgu"
+language: "ru"
+черновик: false # 
+статус: "✅ Готово"
+архив: false # 
+
+# Друзья Dataview
+
+## Основное содержание
+
 Список плагинов, которые могут быть полезны для рабочих процессов, связанных с Dataview:
 
 - [MetaEdit](https://github.com/chhoumann/MetaEdit) — легкое добавление или обновление свойств yaml и полей Dataview

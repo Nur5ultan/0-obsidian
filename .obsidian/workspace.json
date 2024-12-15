@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "a1f4bfb879026a0b",
+        "id": "3ae520da3b31e70a",
         "type": "tabs",
         "children": [
           {
-            "id": "8b6f73cf4b316249",
+            "id": "6ef567135b3ca398",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Без названия.md",
+                "file": "Obsidian/Plugins/Dataview/Метаданные/Добавление метаданных.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Без названия"
+              "title": "Добавление метаданных"
             }
           }
         ]
@@ -95,10 +95,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Без названия.md"
+                "file": "Obsidian/Plugins/Dataview/Метаданные/Добавление метаданных.md"
               },
               "icon": "lucide-list",
-              "title": "Структура Без названия"
+              "title": "Структура Добавление метаданных"
             }
           },
           {
@@ -187,13 +187,20 @@
       "open-vscode:VSCode": false
     }
   },
-  "active": "8b6f73cf4b316249",
+  "active": "6ef567135b3ca398",
   "lastOpenFiles": [
+    "Obsidian/Plugins/Dataview/Метаданные/Метаданные по задачам и спискам.md",
+    "Obsidian/Plugins/Dataview/Метаданные/Метаданные на страницах.md",
+    "Obsidian/Plugins/Dataview/Метаданные/Добавление метаданных.md",
+    "Obsidian/Plugins/Templater/1. Введение.md",
+    "Obsidian/Plugins/Templater/Templates/tmp_ai_model.md",
+    "Obsidian/Plugins/Templater/2.5. tp.frontmatter.md",
+    "000 Home.md",
+    "Без названия.md",
     "Obsidian/Plugins/Templater/Templates/tmp_media_image.md",
     "Obsidian/Plugins/Templater/Templates/tmp_media_audio.md",
     "Obsidian/Plugins/Templater/Templates/tmp_media_video.md",
     "Obsidian/Plugins/Templater/Templates/tmp_ai_research.md",
-    "Obsidian/Plugins/Templater/Templates/tmp_ai_model.md",
     "Obsidian/Plugins/Templater/Templates/tmp_ai_tool.md",
     "Obsidian/Plugins/Templater/Templates/tmp_dev_git.md",
     "Obsidian/Plugins/Templater/Templates/tmp_dev_sql.md",
@@ -208,13 +215,6 @@
     "Obsidian/Plugins/Templater/Templates/tmp_book.md",
     "Obsidian/Plugins/Templater/Templates/tmp_article.md",
     "Obsidian/Plugins/Templater/Templates/tmp_base.md",
-    "000 Home.md",
-    "Без названия.md",
-    "📥InBox/InBox MOC.md",
-    "📥InBox/Таблица сравнения приложении для финансов.md",
-    "Development/Development MOC.md",
-    "Education/Education MOC.md",
-    "Obsidian/Plugins/Templater/Templates/tmp_media.md",
     "Obsidian/Plugins/Templater/Templates",
     "Soft/Google Chrome/Plugins",
     "Soft/Google Chrome",
